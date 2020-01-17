@@ -1,0 +1,38 @@
+#### COMMENT OUT THE FEATURE THAT HAD BEEN IMPLEMENTED ####
+#### FREE TO ADD ANY FEATURE ####\
+
+OPERATING SYSTEM TASKS
+ADD "\\" AS A COMMENT
+
+1. Copying files to location                 //
+2. Deleting files
+3. Change wallpapers                         //
+4. Shutdown
+5. Greeting and sleeping                     //
+6. Launching programs
+7. Creating a simple file with extension
+8. Writing contents to a text file
+9. Zipping and Unzipping files
+10. Search for a specific file in system
+11. Mailing a friend
+12. Setting reminders and alarms
+13. Setting To-Dos'
+14. Downloading a simple file
+15. Downloading a youtube video
+16. Increasing & Decreasing brightness
+17. 
+
+
+SECURITY AUTOMATION
+ADD "\\" AS A COMMENT
+
+1. Web scraping news articles
+2. Scanning for SQLI
+3. Scanning for CSRF
+4. Launching DOS                            //
+5. Checking if a link exist
+6. Checking if a remote host is alive
+7. Port Scanning                            /
+8. Vulnerability Scanning
+9. SSH-ing to a remote address
+10.
