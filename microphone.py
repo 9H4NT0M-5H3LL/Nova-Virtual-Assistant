@@ -1,15 +1,17 @@
 import speech_recognition as sr
+from playsound import playsound
 
 def listenCmd():
     r = sr.Recognizer()
     with sr.Microphone() as source:
-        print("Nova is ready...Speak now!")
+        print("[+] Nova is Ready . . .")
         r.pause_threshold = 1
         #wait for a second to let the recognizer adjust the
         #energy threshold based on the surrounding noise level
-        print("Adjusting for background noise. One second")
+        print("[!] Adjusting for background noise. One second")
         r.adjust_for_ambient_noise(source, duration=1)
-        print("Say something...")
+        playsound('./NOVA_CONFIG/listen.mp3')
+        print("[>] Say your command . . .")
         #listens for the user's input
         audio = r.listen(source)
 

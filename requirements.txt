@@ -5,6 +5,7 @@ playsound
 pyaudio
 spotify-local-control
 nmap
+uncurl
 
 
 
