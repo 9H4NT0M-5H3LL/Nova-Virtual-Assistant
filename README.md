@@ -1,2 +1,2 @@
-# NOVA-Virtual-Assistant
-Nearly Offensive Virtual Assistant
+# FIREEYE-Virtual-Assistant
+Deprecated.
